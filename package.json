@@ -30,9 +30,9 @@
     "playground": "lerna run playground"
   },
   "dependencies": {
-    "@polkadot/api": "^15.5.1",
-    "@polkadot/util": "^13.3.1",
-    "@polkadot/util-crypto": "^13.3.1",
+    "@polkadot/api": "^16.4.9",
+    "@polkadot/util": "^13.5.7",
+    "@polkadot/util-crypto": "^13.5.7",
     "@types/node": "^18.17.1",
     "clean-publish": "^4.2.0",
     "eslint": "^8.56.0",
@@ -43,8 +43,8 @@
     "rimraf": "^5.0.5",
     "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
-    "typedoc": "^0.25.7",
-    "typescript": "^5.3.3",
+    "typedoc": "^0.28.0",
+    "typescript": "^5.4.5",
     "wait-port": "^1.1.0"
   },
   "workspaces": {
